@@ -1,4 +1,4 @@
-# Udyog Portal
+# Naukri
 A website which connects employers and candidates. Built using Django Framework and MySQL.
 
 ## Features for employers
@@ -36,4 +36,5 @@ A website which connects employers and candidates. Built using Django Framework 
   ```python manage.py migrate```
 * Run the server<br>
   ```python manage.py runserver```
+"# DBMS-Project" 
 "# DBMS-Project" 
